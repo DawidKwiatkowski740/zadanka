@@ -1,0 +1,51 @@
+#background{
+    background-color: #45517D;
+}
+
+#logo{
+   float:right;
+   top:1000px;
+   height:50px;
+   width:100px;
+}
+
+#wiz{
+    background-color:#61B2EC;
+    font-size: 20px;
+    color:Black;
+    text-align: left;
+    height:50opx;
+    width:400px;
+}
+
+#dane{
+    background-color:#8EC9F2;
+    font-size: 20px;
+    color:Black;
+    text-align: left;
+    height:500px;
+    width:400px;
+}
+
+#gora{
+    background-color: #45517D;
+    font-size: 20px;
+    color:white;
+    text-align: right;
+    height:50px;
+    width:auto;
+}
+
+#stopka{
+    background-color: #45517D;
+    font-size: 20px;
+    color:white;
+    text-align: center;
+    height:50px;
+    width:auto;
+    top:1000px;
+}
+
+
+
+
